@@ -463,7 +463,7 @@ public class ShelterMain {
 									break;
 								}	// end switch(dMenu)
 								
-							}	// end while(donation)dsa
+							}	// end while(donation)
 							break;
 
 						case 4: // 3-4.로그아웃
